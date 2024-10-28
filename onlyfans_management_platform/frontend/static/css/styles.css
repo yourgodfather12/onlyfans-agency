@@ -1,0 +1,15 @@
+
+/* Enhanced Styling Using Bootstrap and Custom CSS for a Modern Look */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #212529;
+}
